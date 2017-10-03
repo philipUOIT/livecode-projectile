@@ -1,3 +1,4 @@
+![](https://travis-ci.org/philipUOIT/livecode-projectile.svg?branch=master)
 # livecode-projectile
 A simple implementation of an Euler integrator for projectile motion. This program was written (mostly) live, in lecture for SOFE-2850U in Fall 2017.
 
