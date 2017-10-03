@@ -1,6 +1,0 @@
-dist: trusty
-sudo: false
-language: cpp
-
-script:
-  - clang++ -std=c++14 -stdlib=libc++ projectile.cpp
